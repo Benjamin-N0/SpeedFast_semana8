@@ -38,7 +38,7 @@ En esta octava semana realizarás una actividad sumativa individual, en la que c
     ├──VentanaRegistroPedido.java
     └──VentanaRegistroPedido.form
 /util
-├──ConexionDB
+├──ConexionDB.java
 ```
 ## Clonar proyecto y ejecutar proyecto
 
